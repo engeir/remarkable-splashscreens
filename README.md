@@ -39,11 +39,19 @@ scp /path/to/filename.png root@10.0.1.17:/usr/share/remarkable/filename.png
 ```
 
 ## Lookbook <a name = "lookbook"></a>
+### [Barnsley Fern](splashscreens/barnsley_fern)
 ![](splashscreens/barnsley_fern/batteryempty.png)
+### [Chaotic Ribbon](splashscreens/chaotic_ribbon)
 ![](splashscreens/chaotic_ribbon/batteryempty.png)
+### [Seaweed from Collatz Algorithm](splashscreens/collatz_sea_weed)
 ![](splashscreens/collatz_sea_weed/suspended.png)
+### [Dragon Curve](splashscreens/dragon_curve)
 ![](splashscreens/dragon_curve/sleeping.png)
+### [Forest Fire](splashscreens/fire)
 ![](splashscreens/fire/sleeping.png)
+### [Fractal Tree](splashscreens/fractal_tree)
 ![](splashscreens/fractal_tree/starting.png)
+### [Sacks Spiral](splashscreens/sacks_spiral)
 ![](splashscreens/sacks_spiral/starting.png)
+### [Snowy Hills](splashscreens/snowy_hills)
 ![](splashscreens/snowy_hills/poweroff.png)
