@@ -1,7 +1,17 @@
-# Splash screens for the reMarkable tablet
+<h1 align="center">Splash screens for the reMarkable tablet</h1>
+<div align="center">
+
+## Contents
+- [Info](#info)
+
+## Info <a name = "info"></a>
+This repository contains a bunch of `png` files with the correct ratio to be used as backgrounds or splash screens in the [reMarkable paper tablet](https://remarkable.com/).
+
+## About <a name = "about"></a>
+Some of the original files can be found in this repository, in the folder [originals](originals).
 
 ## Log in
-To log in to the reMarkable tablet, `SSH` into the address given on the bottom of the section _General information_ in the _Copyrights and licenses_ file. E.g.
+To log in to the reMarkable, `SSH` into the address given on the bottom of the section _General information_ in the _Copyrights and licenses_ file. E.g.
 ```
 ssh root@10.0.1.17
 ```
