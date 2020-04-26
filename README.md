@@ -5,6 +5,7 @@
 - [About](#about)
 - [Log in](#login)
 - [Adding new splash screens](#addnew)
+- [Lookbook](#lookbook)
 
 ## Info <a name = "info"></a>
 This repository contains a bunch of `png` files with the correct ratio to be used as backgrounds or splash screens in the [reMarkable paper tablet](https://remarkable.com/).
@@ -36,3 +37,13 @@ You can now copy a new file from your computer to the same place in the reMarkab
 ```
 scp /path/to/filename.png root@10.0.1.17:/usr/share/remarkable/filename.png
 ```
+
+## Lookbook <a name = "lookbook"></a>
+![](splashscreens/barnsley_fern/batteryempty.png)
+![](splashscreens/chaotic_ribbon/batteryempty.png)
+![](splashscreens/collatz_sea_weed/suspended.png)
+![](splashscreens/dragon_curve/sleeping.png)
+![](splashscreens/fire/sleeping.png)
+![](splashscreens/fractal_tree/starting.png)
+![](splashscreens/sacks_spiral/starting.png)
+![](splashscreens/snowy_hills/poweroff.png)
