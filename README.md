@@ -9,6 +9,8 @@
 ## Info <a name = "info"></a>
 This repository contains a bunch of `png` files with the correct ratio to be used as backgrounds or splash screens in the [reMarkable paper tablet](https://remarkable.com/).
 
+Many of the images in the splash screens are made using `python` and `matplotlib`. Have a look at the scripts [here](https://github.com/engeir/maths_snack) and experiment yourself.
+
 ## About <a name = "about"></a>
 Some of the original files can be found in this repository, in the folder [originals](originals). But before you delete a file and replace it with a new one, be sure to check if it is there, and preferrably make your own backup.
 
