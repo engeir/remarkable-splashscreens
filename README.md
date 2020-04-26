@@ -1,5 +1,4 @@
 <h1 align="center">Splash screens for the reMarkable tablet</h1>
-<div align="center">
 
 ## Contents
 - [Info](#info)
