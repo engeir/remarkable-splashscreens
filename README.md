@@ -35,7 +35,7 @@ rm -f filename.png
 ```
 You can now copy a new file from your computer to the same place in the reMarkable by doing
 ```
-scp /path/to/filename.png root@10.0.1.17:/usr/share/remarkable/filename.png
+scp /path/to/filename.png root@10.11.99.1:/usr/share/remarkable/filename.png
 ```
 
 ## Lookbook <a name = "lookbook"></a>
