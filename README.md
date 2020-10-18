@@ -53,5 +53,7 @@ scp /path/to/filename.png root@10.11.99.1:/usr/share/remarkable/filename.png
 ![](splashscreens/fractal_tree/starting.png)
 ### [Sacks Spiral](splashscreens/sacks_spiral)
 ![](splashscreens/sacks_spiral/starting.png)
+### [Sierpinski triangle](splashscreens/sierpinski_triangle)
+![](splashscreens/sierpinski_triangle/suspended.png)
 ### [Snowy Hills](splashscreens/snowy_hills)
 ![](splashscreens/snowy_hills/poweroff.png)
