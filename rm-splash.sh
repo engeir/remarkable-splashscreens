@@ -1,3 +1,5 @@
+#!/bin/sh
+
 ssh root@10.11.99.1 'cd /usr/share/remarkable/ && rm -f poweroff.png && rm -f starting.png && rm -f batteryempty.png && rm -f sleeping.png && rm -f suspended.png'
 
 scp splashscreens/sacks_spiral/poweroff.png root@10.11.99.1:/usr/share/remarkable/poweroff.png
