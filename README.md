@@ -60,7 +60,7 @@ doing
 scp /path/to/filename.png root@10.11.99.1:/usr/share/remarkable/filename.png
 ```
 
-## Auto install with script <a name = "auto install"></a>
+## Auto install with script <a name = "autoinstall"></a>
 
 Using the shell script `rm-splash.sh` you can more easily add new splashscreens to your
 reMarkable. Run as
