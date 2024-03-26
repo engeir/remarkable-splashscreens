@@ -1,14 +1,6 @@
 <h1 align="center">Splash screens for the reMarkable tablet</h1>
 
-## Contents
-- [Info](#info)
-- [About](#about)
-- [Log in](#login)
-- [Adding new splash screens](#addnew)
-- [Auto install with script](#autoinstall)
-- [Lookbook](#lookbook)
-
-## Info <a name = "info"></a>
+## Info
 
 This repository contains a bunch of `png` files with the correct ratio to be used as
 backgrounds or splash screens in the [reMarkable paper tablet](https://remarkable.com/).
@@ -17,7 +9,7 @@ Many of the images in the splash screens are made using `python` and `matplotlib
 a look at the scripts [here](https://github.com/engeir/maths_snack) and experiment for
 yourself.
 
-## About <a name = "about"></a>
+## About
 
 Some of the original files can be found in this repository, in the folder
 [originals](originals). But before you delete a file and replace it with a new one, be
@@ -28,7 +20,7 @@ kind. The images used in the splash screens are found in [backgrounds](backgroun
 a [template](template.xcf) file is also provided with correct dimensions, so that new
 files can be easily made.
 
-## Log in <a name = "login"></a>
+## Log in
 
 To log in to the reMarkable, `SSH` into the address given on the bottom of the section
 _General information_ in the _Copyrights and licenses_ file. E.g.
@@ -39,7 +31,7 @@ ssh root@10.0.1.17
 
 and type in the password, given in the same file as the address, e.g. `pswrd123`.
 
-## Adding new splash screens <a name = "addnew"></a>
+## Adding new splash screens
 
 To copy the original files from reMarkable to your computer (for backup) use
 
@@ -60,7 +52,7 @@ doing
 scp /path/to/filename.png root@10.11.99.1:/usr/share/remarkable/filename.png
 ```
 
-## Auto install with script <a name = "autoinstall"></a>
+## Auto install with script
 
 Using the shell script `rm-splash.sh` you can more easily add new splashscreens to your
 reMarkable. Run as
@@ -73,7 +65,11 @@ This will install the default backgrounds: `sacks_spiral`, `dragon_curve`, `snow
 `collatz_sea_weed` and `sierpinski_triangle`. Edit the shell script yourself to get
 whatever files and backgrounds you prefer.
 
-## Lookbook <a name = "lookbook"></a>
+## Stargazers over time
+
+[![Stargazers over time](https://starchart.cc/engeir/remarkable-splashscreens.svg?variant=adaptive)](https://starchart.cc/engeir/remarkable-splashscreens)
+
+## Lookbook
 
 ### [Barnsley Fern](splashscreens/barnsley_fern)
 ![](splashscreens/barnsley_fern/batteryempty.png)
